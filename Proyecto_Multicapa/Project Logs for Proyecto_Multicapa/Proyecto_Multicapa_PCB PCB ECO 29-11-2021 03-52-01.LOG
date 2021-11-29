@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+ICDI_VBUS Pin=H29-1
+Removed Pin From Net: NetName=+USB_VBUS Pin=H30-1
+Removed Member From Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=H29
+Removed Member From Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=H30
+Added Room: Name=Proyecto_Multicapa_Schematic
+Added Room: Name=Proyecto_Multicapa_Schematic_2
+Added Room: Name=Proyecto_Multicapa_Schematic_3

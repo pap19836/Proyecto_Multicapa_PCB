@@ -1,0 +1,11 @@
+Added Component: Designator=H29(HDR 1X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H30(HDR 1X1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+ICDI_VBUS Pin=H29-1
+Added Pin To Net: NetName=+USB_VBUS Pin=H30-1
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=Component H29 HDR1
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=Component H30 HDR1
+Added Room: Name=Proyecto_Multicapa_Schematic
+Added Room: Name=Proyecto_Multicapa_Schematic_2
+Added Room: Name=Proyecto_Multicapa_Schematic_3
