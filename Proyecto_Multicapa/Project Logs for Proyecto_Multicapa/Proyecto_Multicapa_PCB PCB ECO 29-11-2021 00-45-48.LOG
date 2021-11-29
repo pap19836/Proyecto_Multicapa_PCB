@@ -1,0 +1,37 @@
+Removed Member From Class: ClassName=Proyecto_Multicapa_Schematic Member=J2
+Added Component: Designator=J1(TC2050-IDC-NL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/2385/tc2050-idc-nl20datasheet-2385407.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/2385/tc2050-idc-nl20datasheet-2385407.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Tag-Connect"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TC2050-IDC-NL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1 = 39.00000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Plug-Of-Nails™"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1455"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "TC2050-IDC-NL-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=NetC20_1 Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R23-2
+Added Pin To Net: NetName=NetJ1_1 Pin=U4-51
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=R22-2
+Added Pin To Net: NetName=NetJ1_3 Pin=U4-52
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetJ1_7 Pin=J1-7
+Added Pin To Net: NetName=NetJ1_7 Pin=U4-49
+Added Net: Name=NetJ1_7
+Added Pin To Net: NetName=NetJ1_10 Pin=J1-10
+Added Pin To Net: NetName=NetJ1_10 Pin=U4-50
+Added Net: Name=NetJ1_10
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component H15 HDR 2X10
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_3 Member=Component J1 TC2050-IDC-NL
+Added Room: Name=Proyecto_Multicapa_Schematic
+Added Room: Name=Proyecto_Multicapa_Schematic_2
+Added Room: Name=Proyecto_Multicapa_Schematic_3

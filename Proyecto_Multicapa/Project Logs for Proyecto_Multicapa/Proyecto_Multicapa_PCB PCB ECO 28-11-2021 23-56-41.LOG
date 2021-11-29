@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=H15 Old Footprint= New Footprint=HDR 2X10
+Change Component Footprint: Designator=H16 Old Footprint= New Footprint=HDR 2X10
+Added Room: Name=Proyecto_Multicapa_Schematic
+Added Room: Name=Proyecto_Multicapa_Schematic_2
+Added Room: Name=Proyecto_Multicapa_Schematic_3

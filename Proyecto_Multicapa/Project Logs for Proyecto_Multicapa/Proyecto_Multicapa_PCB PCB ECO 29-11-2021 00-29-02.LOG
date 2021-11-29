@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=VDD Pin=R26-2
+Removed Pin From Net: NetName=NetC3_1 Pin=RESET1-1
+Removed Pin From Net: NetName=GND Pin=RESET1-2
+Removed Pin From Net: NetName=NetC20_1 Pin=RESET-1
+Removed Pin From Net: NetName=NetC20_1 Pin=RESET-2
+Removed Member From Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=
+Removed Member From Class: ClassName=Proyecto_Multicapa_Schematic_3 Member=
+Removed Member From Class: ClassName=Proyecto_Multicapa_Schematic Member=RESET1
+Removed Member From Class: ClassName=Proyecto_Multicapa_Schematic_3 Member=RESET
+Change Component Designator: OldDesignator= NewDesignator=H15
+Change Component Designator: OldDesignator= NewDesignator=H16
+Change Component Designator: OldDesignator= NewDesignator=J2
+Change Component Designator: OldDesignator= NewDesignator=SW3
+Added Pin To Net: NetName=+3.3V Pin=R26-2
+Added Pin To Net: NetName=NetC3_1 Pin=RESET-1
+Added Pin To Net: NetName=NetC3_1 Pin=RESET-2
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component H16 HDR 2X10
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_3 Member=Component J2 ZX62-B-5PA(11)
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component RESET B3S-1000
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=Component SW3 JS202011SCQN
+Added Room: Name=Proyecto_Multicapa_Schematic
+Added Room: Name=Proyecto_Multicapa_Schematic_2
+Added Room: Name=Proyecto_Multicapa_Schematic_3
