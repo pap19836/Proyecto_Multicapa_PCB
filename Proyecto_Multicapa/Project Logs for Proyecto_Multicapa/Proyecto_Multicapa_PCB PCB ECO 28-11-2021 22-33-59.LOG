@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=SW1 NewDesignator=SW3
+Change Component Designator: OldDesignator=SW2 NewDesignator=SW1
+Change Component Designator: OldDesignator=SW3 NewDesignator=SW2
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=Component H23 HDR1
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=Component H25 HDR1
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=Component SW3 JS202011SCQN
+Added Room: Name=Proyecto_Multicapa_Schematic
+Added Room: Name=Proyecto_Multicapa_Schematic_2
+Added Room: Name=Proyecto_Multicapa_Schematic_3
