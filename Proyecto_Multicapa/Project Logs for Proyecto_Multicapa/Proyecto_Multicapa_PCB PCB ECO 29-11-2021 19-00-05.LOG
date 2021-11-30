@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+ICDI_VBUS Pin=R25-2
+Removed Pin From Net: NetName=+ICDI_VBUS Pin=U4-46
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=NetR25_2 Pin=U4-46
+Added Net: Name=NetR25_2
+Added Room: Name=Proyecto_Multicapa_Schematic
+Added Room: Name=Proyecto_Multicapa_Schematic_2
+Added Room: Name=Proyecto_Multicapa_Schematic_3

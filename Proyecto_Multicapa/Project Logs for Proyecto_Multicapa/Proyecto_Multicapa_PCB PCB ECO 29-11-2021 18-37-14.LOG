@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC4_1 Pin=C4-1
+Removed Pin From Net: NetName=NetC4_1 Pin=U1-35
+Added Pin To Net: NetName=NetC4_1 Pin=U4-17
+Change Net Name : Old Net Name=NetC4_1 New Net Name=PA0/U0RX_VCP_TXD
+Change Net Name : Old Net Name=U134 New Net Name=U136
+Added Pin To Net: NetName=U135 Pin=C4-1
+Added Pin To Net: NetName=U135 Pin=U1-35
+Added Net: Name=U135
+Added Room: Name=Proyecto_Multicapa_Schematic
+Added Room: Name=Proyecto_Multicapa_Schematic_2
+Added Room: Name=Proyecto_Multicapa_Schematic_3

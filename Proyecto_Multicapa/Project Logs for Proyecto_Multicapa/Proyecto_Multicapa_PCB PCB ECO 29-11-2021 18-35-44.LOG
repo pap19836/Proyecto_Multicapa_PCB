@@ -1,0 +1,94 @@
+Removed Pin From Net: NetName=NetC4_0 Pin=U1-34
+Removed Pin From Net: NetName=NetC4_0 Pin=Y2-1
+Change Component Designator: OldDesignator= NewDesignator=C1
+Change Component Designator: OldDesignator= NewDesignator=C2
+Change Component Designator: OldDesignator= NewDesignator=C3
+Change Component Designator: OldDesignator= NewDesignator=C4
+Change Component Designator: OldDesignator= NewDesignator=C5
+Change Component Designator: OldDesignator= NewDesignator=C6
+Change Component Designator: OldDesignator= NewDesignator=C7
+Change Component Designator: OldDesignator= NewDesignator=C8
+Change Component Designator: OldDesignator= NewDesignator=C9
+Change Component Designator: OldDesignator= NewDesignator=C10
+Change Component Designator: OldDesignator= NewDesignator=C11
+Change Component Designator: OldDesignator= NewDesignator=C12
+Change Component Designator: OldDesignator= NewDesignator=C13
+Change Component Designator: OldDesignator= NewDesignator=C14
+Change Component Designator: OldDesignator= NewDesignator=C15
+Change Component Designator: OldDesignator= NewDesignator=C18
+Change Component Designator: OldDesignator= NewDesignator=C26
+Change Component Designator: OldDesignator= NewDesignator=H5
+Change Component Designator: OldDesignator= NewDesignator=H6
+Change Component Designator: OldDesignator= NewDesignator=H8
+Change Component Designator: OldDesignator= NewDesignator=H15
+Change Component Designator: OldDesignator= NewDesignator=H16
+Change Component Designator: OldDesignator= NewDesignator=H17
+Change Component Designator: OldDesignator= NewDesignator=H18
+Change Component Designator: OldDesignator= NewDesignator=H19
+Change Component Designator: OldDesignator= NewDesignator=H20
+Change Component Designator: OldDesignator= NewDesignator=H21
+Change Component Designator: OldDesignator= NewDesignator=H22
+Change Component Designator: OldDesignator= NewDesignator=H23
+Change Component Designator: OldDesignator= NewDesignator=H24
+Change Component Designator: OldDesignator= NewDesignator=H25
+Change Component Designator: OldDesignator= NewDesignator=J1
+Change Component Designator: OldDesignator= NewDesignator=J2
+Change Component Designator: OldDesignator= NewDesignator=R1
+Change Component Designator: OldDesignator= NewDesignator=R4
+Change Component Designator: OldDesignator= NewDesignator=R5
+Change Component Designator: OldDesignator= NewDesignator=R6
+Change Component Designator: OldDesignator= NewDesignator=R15
+Change Component Designator: OldDesignator= NewDesignator=R24
+Change Component Designator: OldDesignator= NewDesignator=SW3
+Change Component Designator: OldDesignator=VDDC NewDesignator=H11
+Added Pin To Net: NetName=NetC4_0 Pin=U4-18
+Change Net Name : Old Net Name=NetC4_0 New Net Name=PA1/U0TX_VCP_RXD
+Change Net Name : Old Net Name=NetC5_1 New Net Name=U134
+Added Pin To Net: NetName=U143 Pin=U1-34
+Added Pin To Net: NetName=U143 Pin=Y2-1
+Added Net: Name=U143
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component C1 10pF
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component C2 10pF
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component C3 0.1uF
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component C4 24pF
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component C5 24pF
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component C6 1uF
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component C7 0.01uF
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component C8 0.1uF
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component C9 0.01uF
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component C10 0.1uF
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component C11 0.01uF
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component C12 1uF
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component C13 0.1uF
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component C14 0.1uF
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component C15 2.2uF
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_3 Member=Component C18 10pF
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_3 Member=Component C26 0.01uF
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component H5 HDR1
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component H6 HDR1
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component H8 HDR1
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component H11 HDR1
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component H15 HDR 2X10
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component H16 HDR 2X10
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=Component H17 HDR1
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=Component H18 HDR1
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=Component H19 HDR1
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=Component H20 HDR1
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=Component H21 HDR1
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=Component H22 HDR1
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=Component H23 HDR1
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=Component H24 HDR1
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=Component H25 HDR1
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=Component J1 ZX62-B-5PA(11)
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_3 Member=Component J1 TC2050-IDC-NL
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_3 Member=Component J2 ZX62-B-5PA(11)
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component R1 0
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component R4 10K
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component R5 0
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic Member=Component R6 1M
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=Component R15 0
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_3 Member=Component R24 0
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=Component SW3 JS202011SCQN
+Added Room: Name=Proyecto_Multicapa_Schematic
+Added Room: Name=Proyecto_Multicapa_Schematic_2
+Added Room: Name=Proyecto_Multicapa_Schematic_3
