@@ -1,0 +1,10 @@
+Added Component: Designator=H28(HDR 1X1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetH28_1 Pin=H28-1
+Added Pin To Net: NetName=NetH28_1 Pin=U4-24
+Added Net: Name=NetH28_1
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_3 Member=Component H28 HDR1
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=Component R29 330
+Added Room: Name=Proyecto_Multicapa_Schematic
+Added Room: Name=Proyecto_Multicapa_Schematic_2
+Added Room: Name=Proyecto_Multicapa_Schematic_3

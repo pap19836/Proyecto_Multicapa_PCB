@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=NetQ1_1 Pin=R8-1
+Removed Pin From Net: NetName=NetQ2_1 Pin=R10-1
+Added Component: Designator=DS1(ROHM-SMLP34-4_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.rohm.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://rohmfs.rohm.com/en/products/databook/datasheet/opto/led/chip_multi/smlp34.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IF(RGB)"; Value = "5 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IR(RGB)"; Value = "10 uA Max."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "4-Pin SMD, Body 1 x 1 mm, Pitch 0.85 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMLP34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SMLP34RGB2W3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-40 to 85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VF(Blue)"; Value = "3.2 V Typ."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VF(Green)"; Value = "3.3 V Typ."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VF(Red)"; Value = "2.2 V Typ."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VR(RGB)"; Value = "5 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+VBUS Pin=DS1-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R8-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R10-1
+Change Net Name : Old Net Name=NetD2_2 New Net Name=Net_1
+Added Pin To Net: NetName=NetDS1_2 Pin=DS1-2
+Added Pin To Net: NetName=NetDS1_2 Pin=R14-2
+Added Net: Name=NetDS1_2
+Added Pin To Net: NetName=NetDS1_3 Pin=DS1-3
+Added Pin To Net: NetName=NetDS1_3 Pin=R16-2
+Added Net: Name=NetDS1_3
+Added Pin To Net: NetName=NetDS1_4 Pin=DS1-4
+Added Pin To Net: NetName=NetDS1_4 Pin=R13-2
+Added Net: Name=NetDS1_4
+Added Member To Class: ClassName=Proyecto_Multicapa_Schematic_2 Member=Component DS1 SMLP34RGB2W3
+Added Room: Name=Proyecto_Multicapa_Schematic
+Added Room: Name=Proyecto_Multicapa_Schematic_2
+Added Room: Name=Proyecto_Multicapa_Schematic_3

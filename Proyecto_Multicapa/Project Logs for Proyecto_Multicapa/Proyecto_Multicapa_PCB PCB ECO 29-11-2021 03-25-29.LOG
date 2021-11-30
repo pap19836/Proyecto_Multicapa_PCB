@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=VDD Pin=C21-1
+Removed Pin From Net: NetName=VDD Pin=C22-1
+Removed Pin From Net: NetName=VDD Pin=C23-1
+Removed Pin From Net: NetName=VDD Pin=C24-1
+Removed Pin From Net: NetName=VDD Pin=C25-1
+Removed Pin From Net: NetName=VDD Pin=C26-1
+Removed Pin From Net: NetName=VDD Pin=H28-1
+Removed Pin From Net: NetName=+3.3V Pin=H29-1
+Removed Pin From Net: NetName=VDD Pin=R29-1
+Removed Pin From Net: NetName=+3.3V Pin=R29-2
+Removed Pin From Net: NetName=VDD Pin=U4-2
+Removed Pin From Net: NetName=VDD Pin=U4-11
+Removed Pin From Net: NetName=VDD Pin=U4-26
+Removed Pin From Net: NetName=VDD Pin=U4-42
+Removed Pin From Net: NetName=VDD Pin=U4-54
+Removed Member From Class: ClassName=Proyecto_Multicapa_Schematic_3 Member=H28
+Removed Member From Class: ClassName=Proyecto_Multicapa_Schematic_3 Member=H29
+Removed Member From Class: ClassName=Proyecto_Multicapa_Schematic_3 Member=R29
+Change Component Designator: OldDesignator= NewDesignator=R29
+Change Net Name : Old Net Name=Net_1 New Net Name=NetD2_2
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=NetC21_1 Pin=C22-1
+Added Pin To Net: NetName=NetC21_1 Pin=C23-1
+Added Pin To Net: NetName=NetC21_1 Pin=C24-1
+Added Pin To Net: NetName=NetC21_1 Pin=C25-1
+Added Pin To Net: NetName=NetC21_1 Pin=C26-1
+Added Net: Name=NetC21_1
+Added Pin To Net: NetName=VDD2 Pin=U4-2
+Added Pin To Net: NetName=VDD2 Pin=U4-11
+Added Pin To Net: NetName=VDD2 Pin=U4-26
+Added Pin To Net: NetName=VDD2 Pin=U4-42
+Added Pin To Net: NetName=VDD2 Pin=U4-54
+Added Net: Name=VDD2
+Added Room: Name=Proyecto_Multicapa_Schematic
+Added Room: Name=Proyecto_Multicapa_Schematic_2
+Added Room: Name=Proyecto_Multicapa_Schematic_3
